@@ -1,6 +1,6 @@
 # Kiro AWS Certification Steering Documents
 
-A collection of steering documents that transform [Kiro CLI](https://aws.amazon.com/kiro) into a personalized AWS certification exam tutor.
+A collection of steering documents that transform [Kiro CLI](https://kiro.dev/cli/) into a personalized AWS certification exam tutor.
 
 ## What Are Steering Documents?
 
@@ -40,7 +40,7 @@ Have a steering document for another AWS certification? Contributions are welcom
 
 ## About Kiro CLI
 
-Kiro is an AI assistant built by AWS that helps with development, AWS resource management, and learning. Learn more at [aws.amazon.com/kiro](https://aws.amazon.com/kiro).
+Kiro is an AI assistant built by AWS that helps with development, AWS resource management, and learning. Learn more at [kiro.dev/cli](https://kiro.dev/cli/).
 
 ## License
 
